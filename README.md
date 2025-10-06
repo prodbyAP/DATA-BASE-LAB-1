@@ -16,4 +16,4 @@
 разрядом, упорядоченный по отделам
 
 ## ER-диаграмма
-![ER диаграмма](https://github.com/prodbyAP/DATA-BASE-LAB-1/blob/main/ER%20Зарплата.jpg)
+![ER диаграмма](https://github.com/prodbyAP/DATA-BASE-LAB-1/blob/main/ER%20Зарплата.png)
