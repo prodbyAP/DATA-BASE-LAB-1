@@ -17,3 +17,6 @@
 
 ## ER-диаграмма
 ![ER диаграмма](https://github.com/prodbyAP/DATA-BASE-LAB-1/blob/main/ER%20Зарплата.png)
+
+##Логическая модель в виде Диаграммы классов в нотации UML
+![ER диаграмма](https://github.com/prodbyAP/DATA-BASE-LAB-1/blob/main/Логическая%20модель%20Вариант%2020.png)
