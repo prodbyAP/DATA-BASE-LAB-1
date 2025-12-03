@@ -181,7 +181,7 @@ erDiagram
 ![данные 4 1](https://github.com/user-attachments/assets/715f12c7-aad0-450d-bce0-3d38c6138fe1)
 ![данные 4 2](https://github.com/user-attachments/assets/baecc955-79e0-4ea0-ac03-1609fa033ff3)
 ### Заполнил таблицу "Табель" данными
-![данные 5 1](https://github.com/user-attachments/assets/ade64cb9-2908-4a5b-9247-c84eaa38edeb)
+![Табель данные](https://github.com/user-attachments/assets/e6682872-23c8-4cad-9e0e-4b08615f8066)
 ![данные 5 2](https://github.com/user-attachments/assets/ff6d6e22-3b27-4c79-abfa-a96dcb8852c1)
 
 ## 2) Выполнил SELECT-запросы по варианту задания:
