@@ -187,3 +187,23 @@ erDiagram
 ## 2) Выполнил SELECT-запросы по варианту задания:
 ![запрос 1](https://github.com/user-attachments/assets/cab4cee5-043c-4a3f-99ea-1424a7e239ca)
 ![запрос 2](https://github.com/user-attachments/assets/763f071c-0cce-423b-8305-95171ed3fe0e)
+
+# Лабораторная работа 3
+
+## Задачи:
+* Создание представлений для выходных документов
+* Разработка хранимых процедур с параметрами
+* Оптимизация запросов через представления
+
+## Представление 1: Отчет по зарплатам
+![Первое представление](https://github.com/user-attachments/assets/2b171975-64e4-4e5e-864c-63303d6435c2)
+![Результат первого представления](https://github.com/user-attachments/assets/a8ef6bdb-a2cb-4bf4-ada6-51adb8dc26cc)
+
+## Представление 2: Отчет по разрядам в отделах
+![Второе представление](https://github.com/user-attachments/assets/bece732c-19bd-4a26-8aea-305d9f4783dd)
+![Результат второго представления](https://github.com/user-attachments/assets/b20fdf15-0bed-4205-a82c-16c8c67f0e8c)
+
+## Процедура 1: Показать зарплаты сотрудников в определенном отделе
+![Процедура 1](https://github.com/user-attachments/assets/6b523d23-3435-4f16-940e-874aaa882bf9)
+## Процедура 2: Показать разряды сотрудников в определенном отделе
+![Процедура 2](https://github.com/user-attachments/assets/eb7a38f3-60fc-4524-b304-718c5d908362)
